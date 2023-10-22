@@ -4,5 +4,4 @@
 #### hiii helooo
 ##### i am a java full stack developer
 ###### small letter
-
-<img src="https://octodex.github.com/images/yaktocat.png" alt="Image of Yaktocat">
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
